@@ -2,7 +2,7 @@
 
 Currently, the only way to find courses to enrol in at Haaga-Helia is through a giant Excel file hosted on the school's page. I wanted to make a more visually appealing and easier way to nagivate through the courses, so I converted the Excel into JSON and made a simple app with React JS.
 
-I've deployed this app using Microsoft's Azure services. You can preview it [here](http://hhcourses.oo.fi/).
+I've deployed this app using Microsoft's Azure services. You can preview it [here](https://hhcourses.azurewebsites.net/).
 
 ## More Info
 
